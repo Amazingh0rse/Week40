@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>Click the button to get the result of each assignment</p>
+
+<button onclick="myFunction1a()">click here! for 1.a</button>
+<button onclick="myFunction1b()">click here! for 1.b</button>
+
+<p id="demo"></p>
+
+<script>
+
+
+///Opgave 1.a
+var names = ['Hassan', 'Jan', 'Peter', 'Boline', 'Frederik', 'Sarah'];
+var filterItems = (letters) => {
+        return names.filter(name => name.indexOf(letters) > -1);
+    } 
+
+function myFunction1a() {
+  document.getElementById("demo").innerHTML = filterItems('a');
+}
+
+//Opgave 1.b
+function myFunction1b() {
+    document.getElementById("demo").innerHTML = names.map(reverseNames);
+  }
+
+  function reverseNames(names) {
+    return newArray = names.split("").reverse().join("").split(" ").reverse().join(" ");
+    } 
+
+</script>
+
+</body>
+</html>
