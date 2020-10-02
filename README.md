@@ -14,5 +14,5 @@ http://mr462.surge.sh/
 https://docs.google.com/document/d/1DD5H0NeRYGK1dm5wr2YUgrxjT0JSoZuM-pGlUMBpe3A/edit
 
 
-**Fredag del 2  REST with JAX RS part 4**\
+**Friday part 2  REST with JAX RS part 4**\
 http://mr462.surge.sh/
