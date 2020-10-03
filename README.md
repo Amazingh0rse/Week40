@@ -16,3 +16,6 @@ https://github.com/Amazingh0rse/week40/blob/main/Javascript_-_DOM_-_AJAX_-_CORS_
 
 **Friday part 2  REST with JAX RS part 4**\
 http://mr462.surge.sh/
+
+**Link til backend cors**
+https://amazingh0rse.dk/cors/api/persons/all
